@@ -7,3 +7,4 @@
 * Create Nav component contain "About , Home "
 * About page should have some information about yourself
 * Apply same style to your component
+* In home page create calculator with functionalty and style
