@@ -6,5 +6,7 @@
 * Install "react-router-dom"
 * Create Nav component contain "About , Home "
 * About page should have some information about yourself
-* Apply same style to your component
-* In home page create calculator with functionalty and style
+* In home page create a calculator:
+- It should have the layout similar to the calculator on your computer.
+- Use CSS to help you style the layout.
+- Use JavaScript functions to implement its operation.
